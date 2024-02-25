@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Kaos Custom Bebas DTF / Custom Tulisan / Gambar / Logo / Foto / Unisex",
+    "kategori": "kaos",
+    "gambar": "produk.jpg",
+    "harga": 20000,
+    "link": "https://shopee.co.id/"
+  },
+  {
+    "id": 2,
+    "title": "Hoodie Sablon Sumpah Pemuda",
+    "kategori": "hoodie",
+    "gambar": "produk.jpg",
+    "harga": 28000,
+    "link": "https://shopee.co.id/"
+  },
+  {
+    "id": 3,
+    "title": "Kaos Sablon 17 Agustus",
+    "kategori": "kaos",
+    "gambar": "produk.jpg",
+    "harga": 30000,
+    "link": "https://shopee.co.id/"
+  }
+]

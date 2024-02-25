@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Febri Valentine",
+    "role": "Ketua",
+    "profile": "/assets/avatar/febrivalentine.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Callista Anabella",
+    "role": "Seketaris",
+    "profile": "/assets/avatar/calista_anabella.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leonardo Vistara",
+    "role": "Anggota",
+    "profile": "/assets/avatar/leonardo.jpg "
+  },
+  {
+    "id": 4,
+    "name": "Delon Hashiolan L.G.",
+    "role": "Seketaris",
+    "profile": "/assets/avatar/sandra.jpg"
+  }
+]

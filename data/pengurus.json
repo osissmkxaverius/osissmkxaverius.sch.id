@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Florensia Regitha A.",
+    "role": "Ketua",
+    "profile": "/assets/avatar/florensia.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Handri",
+    "role": "Wakil Ketua 1",
+    "profile": "/assets/avatar/handri.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Yngwie Grycello W.",
+    "role": "Wakil Ketua 2",
+    "profile": "/assets/anime.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sandra Cahyanti",
+    "role": "Seketaris",
+    "profile": "/assets/avatar/sandra.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Nita Nathalia",
+    "role": "Wakil Seketaris",
+    "profile": "/assets/anime.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Melani Arya C.",
+    "role": "Bendahara",
+    "profile": "/assets/avatar/meilany.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Vivian Renata C.",
+    "role": "Wakil Bendahara",
+    "profile": "/assets/anime.jpg"
+  }
+]

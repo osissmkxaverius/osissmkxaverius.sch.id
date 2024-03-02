@@ -48,7 +48,7 @@ const SekbidData = [
       },
       {
         name: "Nur Cahya Agustina",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/cahya.png",
       },
     ]
   },
@@ -73,12 +73,12 @@ const SekbidData = [
       },
       {
         name: "Elvina Firmansyah",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/elvina.png",
 
       },
       {
         name: "Elvira Firmansyah",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/elvira.png",
       },
     ]
   },
@@ -94,12 +94,12 @@ const SekbidData = [
     member: [
       {
         name: "Livirni Agiztha",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/livirni.png",
 
       },
       {
         name: "Mayang Indri Yani",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/mayang.png",
       },
     ]
   },
@@ -108,7 +108,7 @@ const SekbidData = [
     title: "Keterampilan & Kewirausahaan",
     description: "Tentang Keterampilan & Kewirausahaan",
     quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
-    koordinator: "Calista Engelicca",
+    koordinator: "Calista Enggelica",
     profile: "/assets/avatar/calista.jpg",
     icon: <Sekbid5 />,
     total_member: 2,
@@ -128,20 +128,20 @@ const SekbidData = [
     no: 6,
     title: "Kepemimpinan & Demokrasi",
     description: "Tentang Kepemimpinan & Demokrasi",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
+    quote: "Disiplin diri adalah sebenar-benarnya wujud kebebasan yang hakiki",
     koordinator: "Nova Olivia N.",
-    profile: "/assets/rgb.jpg",
+    profile: "/assets/avatar/nova.png",
     icon: <Sekbid6 />,
     total_member: 2,
     member: [
       {
         name: "Nikolas Saputra",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/nikolas.png",
 
       },
       {
         name: "Amelia",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/amelia.png",
       },
     ]
   },
@@ -149,20 +149,20 @@ const SekbidData = [
     no: 7,
     title: "Apresiasi Seni Budaya & Daya Kreasi",
     description: "Tentang Apresiasi Seni Budaya & Daya Kreasi",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
+    quote: "Seni, Kebebasan, dan Kreativitas Membutuhkan Keberanian.",
     koordinator: "Adinda Putri K.",
-    profile: "/assets/rgb.jpg",
+    profile: "/assets/avatar/adinda.png",
     icon: <Sekbid7 />,
     total_member: 2,
     member: [
       {
         name: "Darlene Olviia Yohan",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/darlene.png",
 
       },
       {
         name: "Viona Situmorang",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/viona.png",
       },
     ]
   },
@@ -178,12 +178,12 @@ const SekbidData = [
     member: [
       {
         name: "David Alexander",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/david.png",
 
       },
       {
         name: "Dennis Pebrian",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/dennis.png",
       },
     ]
   },
@@ -191,7 +191,7 @@ const SekbidData = [
     no: 9,
     title: "Lingkungan Hidup",
     description: "Tentang Keimanan & Kecintaaan terhadap Tuhan Yang Maha Esa",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
+    quote: "Tumbuhkan Kesadaran, Kembangkan Aksi. Bersama Lingkungan, Kita Bekarya.",
     koordinator: "Meisy Angelina T.",
     profile: "/assets/avatar/meisy.jpg",
     icon: <Sekbid9 />,
@@ -199,7 +199,7 @@ const SekbidData = [
     member: [
       {
         name: "Juanesya Clementine S.",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/juanesya.png",
 
       },
       {

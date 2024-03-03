@@ -171,7 +171,7 @@ const SekbidData = [
     title: "Olahraga & Kesehatan",
     description: "Tentang Olahraga & Kesehatan",
     quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
-    koordinator: "Ryu Fernandez",
+    koordinator: "Ryu Fernandez S.",
     profile: "/assets/avatar/ryu.jpg",
     icon: <Sekbid8 />,
     total_member: 2,

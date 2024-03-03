@@ -68,7 +68,7 @@ const SekbidData = [
       },
       {
         name: "Owen Tandoballa Tan",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/owen.png",
 
       },
       {

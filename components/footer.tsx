@@ -176,7 +176,7 @@ const Footer = () => {
           <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
           <div className="sm:flex sm:items-center sm:justify-between">
             <span className="text-sm text-card dark:text-desc sm:text-center">
-              © {currentYear()} {''}
+              © {currentYear()} {''} Created By {''}
               <Link href="/sekbid/3" className="hover:underline hover:decoration-primary underline-offset-4">
                 Sekbid 3 OSIS SMK Xaverius Palembang
               </Link>

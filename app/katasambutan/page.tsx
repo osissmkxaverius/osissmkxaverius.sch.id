@@ -21,13 +21,15 @@ const KataSambutan = () => {
                 <h1 className="text-4xl  lg:text-[40px] leading-[3.2rem] font-black">Sambutan Ketua OSIS</h1>
                 <p className="text-desc text-base md:text-sm lg:text-base font-medium flex flex-col space-y-4">
                   <span>
-                    OSIS merupakan kependekan dari Organisasi Siswa Intra Sekolah. Organisasi ini berada di tingkat sekolah dan dibentuk di sekolah menengah yaitu SMP dan SMA. Organisasi ini menjadi wadah berkumpulnya para siswa untuk mencapai tujuan tertentu. Organisasi ini terdiri dari susunan kepengurusan yang terdiri dari Ketua, Wakil Ketua, Sekretaris, Bendahara, kemudian Seksi-Seksi lainnya.
+                    Selamat pagi semuanya, sebelumnya perkenalkan nama saya Florensia Regitha Aprilianty, saya berasal dari kelas XI OTKP 2. Saya menjabat sebagai ketua OSIS/OSISKA masa bakti 2024.
                   </span>
                   <span>
-                    OSIS merupakan kependekan dari Organisasi Siswa Intra Sekolah. Organisasi ini berada di tingkat sekolah dan dibentuk di sekolah menengah yaitu SMP dan SMA.
+                    Saya bersyukur atas kepercayaan yang telah diberikan kepada saya untuk memimpin organisasi MPK & OSIS/OSISKA pada masa bakti 2024 ini. Dengan rendah hati saya serta teman-teman yang lain akan bertanggung jawab dengan tugas kami masing-masing, dengan dukungan bapak ibu guru, teman-teman sekalian,serta orang-orang yang berada disekitar kami. 
                   </span>
-
-                  <span>Kami OSIS SMK Xaverius Palembang masa bakti 2024 yang beranggotakan 40 orang diketuai oleh Febri Florensia Regitha ApriliantyLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>                
+                  <span>
+                    Ditengah tantangan dan peluang yang ada, kami bertekad untuk menjadi penerus dan penggerak perubahan positif dalam sekolah kami. Melalui program, kegiatan,yang telah disusun, kami berharap dapat memperkaya pengalaman belajar, memperkuat persaudaraan, dan membantu mewujudkan impian-impian kita bersama.
+                  </span>
+                  <span>Mari kita bersama bergandengan tangan, merangkul perbedaan dan membangun masa depan serta selalu mengharumkan nama sekolah SMK Xaverius Palembang dimana pun kita berada. Sekian dari saya mohon maaf apabila ada kata-kata yang kurang berkenan di hati bapak ibu guru, teman-teman dan semuanya, terimakasih dan selamat pagi</span>                
                 </p>
               </div>
               <div className="flex space-x-3">

@@ -16,7 +16,7 @@ const SekbidData = [
     title: "Keimanan & Kecintaan terhadap Tuhan Yang Maha Esa",
     description: "Tentang Keimanan & Kecintaaan terhadap Tuhan Yang Maha Esa",
     quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
-    koordinator: "Margaretha Cindy",
+    koordinator: "Margaretha Cindy P.A.",
     profile: "/assets/avatar/cindy.jpg",
     icon: <Sekbid1 />,
     total_member: 2,
@@ -26,8 +26,8 @@ const SekbidData = [
         img: "/assets/avatar/monica.jpg",
       },
       {
-        name: "Maxilianus Gading",
-        img: "/assets/avatar/monica.jpg",
+        name: "Maxilianus Gading D.",
+        img: "/assets/avatar/maxi.png",
       },
     ]
   },
@@ -35,7 +35,7 @@ const SekbidData = [
     no: 2,
     title: "Wawasan Kebangsaan dan Nasionalisme",
     description: "Tentang Wawasan Kebangsaan dan Nasionalisme",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
+    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai",
     koordinator: "Tiara Astralia S.H.",
     profile: "/assets/rgb.jpg",
     icon: <Sekbid2 />,
@@ -43,7 +43,7 @@ const SekbidData = [
     member: [
       {
         name: "Jessen",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/jessen.png",
 
       },
       {
@@ -56,7 +56,7 @@ const SekbidData = [
     no: 3,
     title: "Wawasan Keilmuan & IPTEK",
     description: "Tentang Wawasan Keilmuan & IPTEK",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
+    quote: "Membangun generasi cerdas dan berwawasan luas, menguasai IPTEK untuk masa depan gemilang",
     koordinator: "Peter King",
     profile: "/assets/avatar/peter.jpg",
     icon: <Sekbid3 />,
@@ -93,7 +93,7 @@ const SekbidData = [
     total_member: 2,
     member: [
       {
-        name: "Livirni Agiztha",
+        name: "Livirni Agiztha R.H.",
         img: "/assets/avatar/livirni.png",
 
       },
@@ -107,8 +107,8 @@ const SekbidData = [
     no: 5,
     title: "Keterampilan & Kewirausahaan",
     description: "Tentang Keterampilan & Kewirausahaan",
-    quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
-    koordinator: "Calista Enggelica",
+    quote: "Kece abis, harga ga bikin duit menipis",
+    koordinator: "Callista Enggelica",
     profile: "/assets/avatar/calista.jpg",
     icon: <Sekbid5 />,
     total_member: 2,
@@ -149,7 +149,7 @@ const SekbidData = [
     no: 7,
     title: "Apresiasi Seni Budaya & Daya Kreasi",
     description: "Tentang Apresiasi Seni Budaya & Daya Kreasi",
-    quote: "Seni, Kebebasan, dan Kreativitas Membutuhkan Keberanian.",
+    quote: "Seni, kebebasan, dan kreativitas membutuhkan keberanian",
     koordinator: "Adinda Putri K.",
     profile: "/assets/avatar/adinda.png",
     icon: <Sekbid7 />,

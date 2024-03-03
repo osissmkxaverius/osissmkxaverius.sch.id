@@ -15,7 +15,7 @@
     "id": 3,
     "name": "Yngwie Grycello W.",
     "role": "Wakil Ketua 2",
-    "profile": "/assets/anime.jpg"
+    "profile": "/assets/avatar/yngwie.png"
   },
   {
     "id": 4,
@@ -27,7 +27,7 @@
     "id": 5,
     "name": "Nita Nathalia",
     "role": "Wakil Seketaris",
-    "profile": "/assets/anime.jpg"
+    "profile": "/assets/avatar/nita.png"
   },
   {
     "id": 6,
@@ -39,6 +39,6 @@
     "id": 7,
     "name": "Vivian Renata C.",
     "role": "Wakil Bendahara",
-    "profile": "/assets/anime.jpg"
+    "profile": "/assets/avatar/vivian.png"
   }
 ]

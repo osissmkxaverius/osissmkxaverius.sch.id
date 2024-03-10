@@ -11,33 +11,33 @@ const Galeri = () => {
           <div className="flex pl-4  lg:pl-10  items-center space-x-5  w-full md:w-3/4 lg:w-1/2  ">
             <div className="space-y-5 ">
               <Image
-                src="/assets/rgb.jpg"
-                width={200}
-                height={200}
-                alt="Logo OSIS/OSISKA"
+                src="/assets/galeri/pakexa.jpg"
+                width={400}
+                height={400}
+                alt="Pelantikan PAKEXA"
                 className="rounded-2xl  w-36 lg:w-44 "
               />
               <Image
-                src="/assets/rgb.jpg"
-                width={200}
-                height={200}
-                alt="Logo OSIS/OSISKA"
+                src="/assets/galeri/fikricol.jpg"
+                width={400}
+                height={400}
+                alt="Fikri Collection"
                 className="rounded-2xl  w-36 lg:w-44 "
               />
             </div>
             <div className="space-y-5">
               <Image
-                src="/assets/rgb.jpg"
-                width={200}
-                height={200}
-                alt="Logo OSIS/OSISKA"
+                src="/assets/galeri/imlek.jpg"
+                width={400}
+                height={400}
+                alt="IMLEK"
                 className="rounded-2xl w-36 lg:w-44  "
               />
               <Image
-                src="/assets/rgb.jpg"
-                width={200}
-                height={200}
-                alt="Logo OSIS/OSISKA"
+                src="/assets/galeri/museum.jpg"
+                width={400}
+                height={400}
+                alt="Museum Taman Purbakala Sriwijaya"
                 className="rounded-2xl w-36 lg:w-44  "
               />
             </div>

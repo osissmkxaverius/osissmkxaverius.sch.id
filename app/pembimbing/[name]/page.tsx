@@ -2,13 +2,9 @@
 
 import Container from "@/components/container";
 import Image from "next/image";
-
 import { useParams } from 'next/navigation'
 import { FC } from "react";
-
-import { Dot } from 'lucide-react';
 import Link from "next/link";
-
 
 import pembimbingdata from "../../../data/pembimbing.json"
 
@@ -36,9 +32,9 @@ const PembimbingDetail: FC<detailProps> = ({ params }) => {
   const pembimbingdetail = pembimbing_data.find((pem) => stripPath(pem?.path).toLocaleLowerCase() === params.name);
   return (
     <Container>
-      <section className="md:relative md:min-h-[732px]">
-        <div className="flex justify-between items-center flex-col md:flex-row gap-y-10 md:gap-y-0 pt-12 pb-16 md:pt-16 md:pb-20 lg:pt-20 lg:pb-24" >
-          <div className="flex flex-col items-center w-full md:w-3/4 lg:w-1/2  ">
+      <section className="py-8 md:py-10 lg:py-12">
+        <div className="flex items-center justify-between p-7 flex-col bg-transparant dark:bg-secondary rounded-xl border border-1 border-decs md:flex-row gap-y-10 md:gap-y-0" >
+          <div className="flex items-center flex-col w-full md:w-2/5">
             <div className="flex flex-col space-y-2">
               <Image
                 src={pembimbingdetail?.profile ? pembimbingdetail?.profile : ""}
@@ -53,9 +49,9 @@ const PembimbingDetail: FC<detailProps> = ({ params }) => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col md:w-3/4 lg:w-1/2">
+          <div className="flex flex-col w-full md:w-3/5">
             <div className="space-y-3">
-              <h1 className="text-4xl lg:text-[40px] leading-[3.2rem] font-black">{pembimbingdetail?.role}</h1>
+              <h1 className="text-4xl lg:text-[40px] font-black">{pembimbingdetail?.role}</h1>
               <p className="text-desc text-base md:text-sm lg:text-base font-medium flex flex-col space-y-5">
                 <span>
                   {pembimbingdetail?.description?.[0] ? pembimbingdetail?.description?.[0] : null}
@@ -63,15 +59,12 @@ const PembimbingDetail: FC<detailProps> = ({ params }) => {
                 <span>
                   {pembimbingdetail?.description?.[1] ? pembimbingdetail?.description?.[1] : null}
                 </span>
-                <span>
-                  {pembimbingdetail?.description?.[2] ? pembimbingdetail?.description?.[2] : null}
-                </span>
               </p>
             </div>
           </div>
         </div>
 
-        <div className="flex flex-col space-y-3 md:absolute md:bottom-0 pt-0 pb-16 md:pt-16 md:pb-20 lg:pt-20 lg:pb-24">
+        <div className="flex flex-col space-y-3 mt-5 md:mt-10 w-full">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {pembimbing_data && pembimbing_data.map((data, idx) => (
               <>

@@ -28,18 +28,6 @@ const Home = () => {
       height: 100,
       src: "/assets/logo.png"
     },
-    {
-      name: "anime",
-      width: 100,
-      height: 100,
-      src: "/assets/anime.jpg"
-    },
-    {
-      name: "rgb",
-      width: 200,
-      height: 200,
-      src: "/assets/rgb.jpg"
-    }
   ]
 
   return ( 

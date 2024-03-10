@@ -111,6 +111,14 @@ const Footer = () => {
                     </li>
                     <li >
                       <Link
+                        href="/pembimbing"
+                        className="hover:underline hover:decoration-primary underline-offset-4 capitalize"
+                      >
+                        guru pembimbing
+                      </Link>
+                    </li>
+                    <li >
+                      <Link
                         href="/mpk"
                         className="hover:underline hover:decoration-primary underline-offset-4 uppercase"
                       >

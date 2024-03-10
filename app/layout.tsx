@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: `OSIS SMK Xaverius Palembang`,
-  description: 'Selamat datang di website resmi OSIS/OSISKA SMK Xaverius Palembang. Website ini berisi informasi tentang OSISKA SMK Xaverius Palembang masa bakti 2024.',
+  description: 'Selamat datang di website resmi OSIS/OSISKA SMK Xaverius Palembang. Website ini berisi informasi tentang OSISKA SMK Xaverius Palembang periode 2024.',
   icons: {
     icon: [
       'favicon.ico?v=4'

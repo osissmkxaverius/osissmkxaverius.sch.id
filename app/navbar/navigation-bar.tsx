@@ -65,6 +65,10 @@ const NavigationBar = () => {
       link: "/strukturorganisasi"
     },
     {
+      title: "Guru Pembimbing",
+      link: "/pembimbing"
+    },
+    {
       title: "MPK",
       link: "/mpk"
     },
@@ -75,7 +79,7 @@ const NavigationBar = () => {
     {
       title: "Seksi Bidang",
       link: "/sekbid"
-    }
+    },
   ]
 
   return (

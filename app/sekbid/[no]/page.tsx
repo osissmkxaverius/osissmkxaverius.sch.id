@@ -35,7 +35,7 @@ const SekbidDetail: React.FC<detailProps> = ({ params }) => {
       </Container>
       <Anggota
         title="Anggota"
-        description="Mengenal lebih dalam tentang Koordinator dan Anggota Seksi Bidang 1 OSIS/OSISKA SMK Xaverius Palembang"
+        description={`Mengenal lebih dalam tentang Koordinator dan Anggota Seksi Bidang ${sekbid_detail?.no} OSIS/OSISKA SMK Xaverius Palembang`}
         data3={sekbid_detail}
         type="3"
         bg="secondary"

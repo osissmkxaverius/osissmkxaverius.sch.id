@@ -5,6 +5,7 @@ import PengurusHarian from "../pengurus/page";
 import Produk from "./produk";
 import BlogTerbaru from "./blogterbaru";
 import Motto from '../motto/page';
+import Pembimbing from '../pembimbing/page';
 
 const Beranda = () => {
   return (
@@ -13,6 +14,7 @@ const Beranda = () => {
       <TentangKami />
       <PengurusHarian />
       <Sekbid />
+      <Pembimbing />
       <Produk />
       <BlogTerbaru />
       <Motto />

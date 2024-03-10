@@ -15,12 +15,12 @@
     "id": 3,
     "name": "Leonardo Vistara",
     "role": "Anggota",
-    "profile": "/assets/avatar/leonardo.jpg "
+    "profile": "/assets/avatar/leonardo.jpg"
   },
   {
     "id": 4,
     "name": "Delon Hashiolan L.G.",
-    "role": "Seketaris",
+    "role": "Anggota",
     "profile": "/assets/avatar/delon.png"
   }
 ]

@@ -37,7 +37,7 @@ const SekbidData = [
     description: "Tentang Wawasan Kebangsaan dan Nasionalisme",
     quote: "Memupuk jiwa nasionalisme dan wawasan kebangsaan, merajut persatuan dalam kebhinekaan",
     koordinator: "Tiara Astralia S.H.",
-    profile: "/assets/rgb.jpg",
+    profile: "/assets/avatar/tiara.png",
     icon: <Sekbid2 />,
     total_member: 2,
     member: [

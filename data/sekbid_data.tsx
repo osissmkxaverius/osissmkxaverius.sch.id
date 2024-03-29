@@ -204,7 +204,7 @@ const SekbidData = [
       },
       {
         name: "Deviana",
-        img: "/assets/avatar/meilany.jpg",
+        img: "/assets/avatar/deviana.png",
       },
     ]
   },

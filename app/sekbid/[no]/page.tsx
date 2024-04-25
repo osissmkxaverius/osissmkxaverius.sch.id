@@ -24,7 +24,7 @@ const SekbidDetail: React.FC<detailProps> = ({ params }) => {
             </div>
             <div className="w-full lg:w-2/5 space-y-3">
               <Image
-                src={'/assets/osiska.png'}
+                src={'/assets/osis.png'}
                 width={700}
                 height={700}
                 alt="mpk"

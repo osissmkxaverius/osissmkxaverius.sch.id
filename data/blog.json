@@ -4,9 +4,8 @@
     "title": "Pelantikan Pengurus MPK dan OSIS-OSISKA SMK Xaverius Palembang Periode 2024",
     "category": "kegiatan osis",
     "subCategory": ["mobile", "web", "tutorial"],
-    "description": ["Dengan perkembangan teknologi, semakin banyak bisnis dan individu yang beralih ke platform digital untuk memperluas jangkauan dan meningkatkan keterlibatan pengguna. Salah satu cara efektif untuk mencapai hal ini adalah dengan mengubah situs web Anda menjadi aplikasi mobile. Jika Anda ingin melakukan hal ini tanpa harus menulis kode atau menghabiskan banyak waktu, maka artikel ini dapat menjadi solusi yang tepat untuk mengatasi masalah Anda. ",
-    "Dengan perkembangan teknologi, semakin banyak bisnis dan individu yang beralih ke platform digital untuk memperluas jangkauan dan meningkatkan keterlibatan pengguna. "],
-    "authorName": "Stella",
+    "description": ["Ini hanya test blog, blog sedang diproses."],
+    "authorName": "Elvina Firmansyah",
     "authorAvatar": "/assets/img/profile.png",
     "createdAt": "2023, 12, 7",
     "estimated": "3 min",
@@ -14,32 +13,15 @@
   },
   {
     "id": 2,
-    "title": "Siswa SMK Xaverius Palembang melakukan kegiatan jalan santai koordinasi dengan SD dan SMP",
+    "title": "Pelantikan Pengurus MPK dan OSIS-OSISKA SMK Xaverius Palembang Periode 2024",
     "category": "kegiatan osis",
     "subCategory": ["mobile", "web", "tutorial"],
-    "description": [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book jdada dadadaidiwjdiwj  jidajidjadja idjaijdaijdd"
-    ],
-    
-    "authorName": "Elvina Firmansyah",
-    "authorAvatar": "/assets/img/profile.png",
-    "createdAt": "2024, 1, 18",
-    "estimated": "2 min",
-    "cover": "/assets/blog/upacara.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Test Blog 3",
-    "category": "Kunjungan Museum",
-    "subCategory": ["mobile", "web", "tutorial"],
-    "description": [
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book jdada dadadaidiwjdiwj  jidajidjadja idjaijdaijdd"
-    ],
-    
+    "description": ["Ini hanya test blog, blog sedang diproses."],
     "authorName": "Elvira Firmansyah",
     "authorAvatar": "/assets/img/profile.png",
-    "createdAt": "2022, 5, 3",
-    "estimated": "5 min",
+    "createdAt": "2023, 12, 6",
+    "estimated": "3 min",
     "cover": "/assets/blog/upacara.jpg"
   }
+ 
 ]

@@ -36,7 +36,7 @@ const MPK = () => {
         </section>
       </Container>
       <Anggota
-        title="Anggota MPK"
+        title="MPK"
         description="Mengenal lebih dalam tentang anggota MPK SMK Xaverius Palembang"
         data={MPK_data}
         type="normal"

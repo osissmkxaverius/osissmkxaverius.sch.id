@@ -16,7 +16,7 @@ const SekbidData = [
     title: "Keimanan & Kecintaan terhadap Tuhan Yang Maha Esa",
     description: "Tentang Keimanan & Kecintaaan terhadap Tuhan Yang Maha Esa",
     quote: "Buah keheningan adalah doa. Buah doa adalah iman. Buah iman adalah cinta. Buah cinta adalah pelayanan. Buah pelayanan adalah damai.",
-    koordinator: "Margaretha Cindy P.A.",
+    koordinator: "Margaretha Cindy P.",
     profile: "/assets/avatar/cindy.jpg",
     icon: <Sekbid1 />,
     total_member: 2,

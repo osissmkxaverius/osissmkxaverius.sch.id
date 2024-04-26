@@ -43,7 +43,7 @@ const KataSambutan = () => {
                   />
                 </div>
                 <div>
-                  <h5 className="font-extrabold">Florensia Regitha .A</h5>
+                  <h5 className="font-extrabold">Florensia Regitha A.</h5>
                   <p className="text-sm text-desc font-medium">Ketua OSIS/OSISKA SMK Xaverius Periode 2024</p>
                 </div>
               </div>

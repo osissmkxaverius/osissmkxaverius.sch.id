@@ -66,10 +66,10 @@ const BlogTerbaru = () => {
           <div className="border bg-transparant dark:bg-secondary flex flex-col md:flex-row md:space-x-5 p-5 md:p-6 rounded-xl relative space-y-4 md:space-y-0  ">
             <Image
               src={blog_1.cover ? blog_1.cover : ''}
-              width={309}
+              width={500}
               height={231}
               alt="upacara"
-              className="w-full md:w-[309px] md:h-[231px] rounded-xl"
+              className="w-full md:w-[309px] md:h-[231px] rounded-xl object-cover"
             />
             <div className="space-y-3" >
               <div className="space-y-2">
@@ -94,10 +94,10 @@ const BlogTerbaru = () => {
           <div className="border bg-transparant dark:bg-secondary flex flex-col md:flex-row md:space-x-5 p-5 md:p-6 rounded-xl relative space-y-4 md:space-y-0  ">
             <Image
               src={blog_2.cover ? blog_2.cover : ''}
-              width={309}
+              width={500}
               height={231}
               alt="upacara"
-              className="w-full md:w-[309px] md:h-[231px] rounded-xl"
+              className="w-full md:w-[309px] md:h-[231px] rounded-xl object-cover"
             />
             <div className="space-y-3" >
               <div className="space-y-2">

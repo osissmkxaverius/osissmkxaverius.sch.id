@@ -16,7 +16,7 @@ interface BlogData {
   description?: string[];
   subDesc?: object;
   authorName?: string;
-  authorAvatar?: string;
+  authorUrl?: string;
   createdAt?: string;
   estimated?: string;
   cover?: string;
@@ -93,10 +93,10 @@ const Blog = () => {
                   <div key={idx} className="border bg-transparant dark:bg-secondary flex flex-col md:flex-row md:space-x-5 p-5 md:p-6 rounded-xl relative space-y-4 md:space-y-0  dark:shadow-none">
                     <Image
                       src={hasil.cover ? hasil.cover : ''}
-                      width={309}
+                      width={1000}
                       height={231}
                       alt="upacara"
-                      className="w-full md:w-[309px] md:h-[231px] rounded-xl"
+                      className="w-full md:w-[309px] md:h-[231px] rounded-xl object-cover"
                     />
                     <div className="space-y-3" >
                       <div className="space-y-2">
@@ -109,7 +109,7 @@ const Blog = () => {
                       <div >
                         <div className="md:absolute md:bottom-6 ">
                           <div className="flex items-center text-sm md:text-base" >
-                            <p>Oleh: <span className="font-semibold">{hasil.authorName}</span></p>
+                          <p>Oleh: <span className="font-semibold"><a href={hasil?.authorUrl ? hasil?.authorUrl : "https://instagram.com/osiska_smkxav" } target="_blank">{hasil?.authorName}</a></span></p>
                             <Dot />
                             <p>{hasil.createdAt ? convertTanggal(hasil.createdAt) : ''}</p>
                           </div>
@@ -133,10 +133,10 @@ const Blog = () => {
                 <div key={idx} className="border bg-transparant dark:bg-secondary flex flex-col md:flex-row md:space-x-5 p-5 md:p-6 rounded-xl relative space-y-4 md:space-y-0  dark:shadow-none">
                   <Image
                     src={_.cover ? _.cover : ''}
-                    width={309}
+                    width={1000}
                     height={231}
                     alt="upacara"
-                    className="w-full md:w-[309px] md:h-[231px] rounded-xl"
+                    className="w-full md:w-[309px] md:h-[231px] rounded-xl object-cover"
                   />
                   <div className="space-y-3" >
                     <div className="space-y-2">
@@ -149,7 +149,7 @@ const Blog = () => {
                     <div >
                       <div className="md:absolute md:bottom-6 ">
                         <div className="flex flex-col sm:flex-row sm:items-center text-sm md:text-base" >
-                          <p>Oleh: <span className="font-semibold">{_.authorName}</span></p>
+                        <p>Oleh: <span className="font-semibold"><a href={_?.authorUrl ? _?.authorUrl : "https://instagram.com/osiska_smkxav" } target="_blank">{_?.authorName}</a></span></p>
                           <Dot className="hidden sm:block" />
                           <p>{_.createdAt ? convertTanggal(_.createdAt) : ''}</p>
                         </div>

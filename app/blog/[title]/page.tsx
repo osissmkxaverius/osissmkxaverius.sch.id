@@ -15,13 +15,14 @@ interface BlogData {
   id?: number;
   title?: string;
   category?: string;
-  subCategory?: object;
+  subCategory?: string[];
   description?: string[];
   authorName?: string;
-  authorAvatar?: string;
+  authorUrl?: string;
   createdAt?: string;
   estimated?: string;
   cover?: string;
+  resolution?: number;
 }
 
 const blog_data = blogdata as BlogData[]
@@ -54,23 +55,27 @@ const BlogDetail: FC<detailProps> = ({ params }) => {
     <Container>
       <section className="py-8 md:py-10 lg:py-12">
         <div className="flex flex-col space-y-6">
-          <div className="flex flex-col space-y-5 mt-6 ">
-            <p className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full">{blogdetail?.category}</p>
+          <div className="flex flex-col space-y-4 mt-3 md:mt-4 ">
+            <div className="flex">
+              <p className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full">{blogdetail?.category}</p>
+              {blogdetail?.subCategory?.map((cat, idx) => <p key={idx} className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full ml-3">{cat}</p>)}
+            </div>
+
             <h1 className="text-2xl lg:text-3xl font-black md:leading-[3.1rem]">{blogdetail?.title}</h1>
             <div className="flex items-center text-sm md:text-base" >
-              <p>Oleh: <span className="font-semibold">{blogdetail?.authorName}</span></p>
+              <p>Oleh: <span className="font-semibold"><a href={blogdetail?.authorUrl ? blogdetail?.authorUrl : "https://instagram.com/osiska_smkxav" } target="_blank">{blogdetail?.authorName}</a></span></p>
               <Dot />
               <p>{blogdetail?.createdAt ? convertTanggal(blogdetail?.createdAt) : ''}</p>
             </div>
             <Image
               src={blogdetail?.cover ? blogdetail?.cover : ''}
-              width={309}
-              height={231}
+              width={blogdetail?.resolution ? blogdetail?.resolution : 1700}
+              height={250}
               alt="upacara"
-              className="w-full md:w-full md:h-[231px] object-cover rounded-xl"
+              className="w-full md:w-full md:h-[300px] object-cover rounded-xl object-center"
             />
             <div className="flex flex-col space-y-1">
-              {blogdetail?.description?.map((des, idx) => <p key={idx}>{des}</p>)}
+              {blogdetail?.description?.map((des, idx) => <p key={idx} className="py-2 text-desc ">{des}</p>)}
             </div>
           </div>
         </div>

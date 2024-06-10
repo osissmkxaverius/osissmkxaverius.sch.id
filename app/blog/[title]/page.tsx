@@ -56,8 +56,8 @@ const BlogDetail: FC<detailProps> = ({ params }) => {
       <section className="py-8 md:py-10 lg:py-12">
         <div className="flex flex-col space-y-6">
           <div className="flex flex-col space-y-4 mt-3 md:mt-4 ">
-            <div className="flex">
-              <p className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full">{blogdetail?.category}</p>
+            <div className="flex overflow-x-auto ">
+              <p className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full ml-3">{blogdetail?.category}</p>
               {blogdetail?.subCategory?.map((cat, idx) => <p key={idx} className="bg-pastel text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full ml-3">{cat}</p>)}
             </div>
 

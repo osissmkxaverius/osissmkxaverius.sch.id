@@ -8,13 +8,19 @@ import produkdata from "../../data/produk.json";
 import { FaWhatsapp } from "react-icons/fa";
 import { Button } from "@/components/ui/button";
 import NotFound from "@/components/notfound";
-
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipProvider,
+  TooltipTrigger,
+} from "@/components/ui/tooltip"
 interface ProdukData {
   id?: number;
   title?: string;
   kategori?: string;
   gambar?: string;
   harga?: number;
+  warna?: Array<{ hex: string; nama: string }>;
   link?: string;
 }
 
@@ -118,18 +124,51 @@ const Shop = () => {
                       alt="Product"
                     />
                     <div className="space-y-2">
+                   
                       <p className="bg-pastel text-primary w-fit uppercase py-[7.5px] px-[14px] text-sm font-semibold rounded-full mt-3">
                         {hasil.kategori}
                       </p>
+                     
                       <div className="space-y-1 md:pb-[3.4rem]">
                         <h4 className="font-semibold line-clamp-2 text-ellipsis">
                           {hasil.title}
                         </h4>
+
+                        {/* <div className="space-y-1">
+                          <p className="text-sm text-desc ">Warna</p>
+                          <div className="flex space-x-2">
+                            {hasil.warna?.map((_, idx) => (
+                              <button className={`bg-[${_}] w-[30px] h-[30px] rounded-lg border `} key={idx}></button>
+                            ))}
+                          </div>
+                        </div> */}
+
                         {hasil.harga !== undefined && (
                           <h1 className="text-lg font-black">
                             {replaceFormat(RupiahFormat.format(hasil.harga))}
                           </h1>
                         )}
+
+                        <div className="space-x-2 flex items-center justify-between overflow-x-auto ">
+                          <p className="text-sm text-desc ">Warna</p>
+                          <div className="flex space-x-2">
+                            {hasil.warna?.map((_, idx) => (
+                              <>
+                                <TooltipProvider>
+                                  <Tooltip key={idx}>
+                                    <TooltipTrigger className={`bg-[${_.hex}] w-[30px] h-[30px] rounded-lg border`}></TooltipTrigger>
+                                    <TooltipContent>
+                                      <p>{_.nama}</p>
+                                    </TooltipContent>
+                                  </Tooltip>
+                                </TooltipProvider>
+                              </>
+                            ))}
+                          </div>
+                        </div>
+                      
+                       
+                      
                       </div>
                       <div className="md:absolute md:bottom-5 md:left-5 md:right-5">
                         <Button
@@ -159,11 +198,10 @@ const Shop = () => {
         </div>
         <Link
           href="https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin mendapatkan informasi lebih lanjut mengenai shop osis smk xaverius?"
-          className={`${
-            chat
+          className={`${chat
               ? `bg-white text-primary border dark:border-none dark:bg-primary dark:text-primary-foreground`
               : `bg-primary text-primary-foreground `
-          } rounded-2xl p-3 md:px-5 md:py-3.5 fixed right-5 bottom-5 md:right-10 md:bottom-10 flex items-center font-medium space-x-2`}
+            } rounded-2xl p-3 md:px-5 md:py-3.5 fixed right-5 bottom-5 md:right-10 md:bottom-10 flex items-center font-medium space-x-2`}
           target="_blank"
         >
           <FaWhatsapp size="24px" />

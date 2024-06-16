@@ -5,6 +5,16 @@
     "kategori": "kaos",
     "gambar": "design1.png",
     "harga": 85000,
+    "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Preserve Energy?"
   }, 
   {
@@ -13,6 +23,16 @@
     "kategori": "kaos",
     "gambar": "design2.png",
     "harga": 85000,
+    "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Blissful Oasis?"
   },
   {
@@ -21,6 +41,16 @@
     "kategori": "kaos",
     "gambar": "design3.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Adventure Awaits?"
   },
   {
@@ -29,6 +59,16 @@
     "kategori": "kaos",
     "gambar": "design4.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Infinite?"
   },
   {
@@ -37,6 +77,16 @@
     "kategori": "kaos",
     "gambar": "design5.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Flowystic?"
   },
   {
@@ -45,6 +95,16 @@
     "kategori": "kaos",
     "gambar": "design6.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Love Ocean?"
   },
   {
@@ -53,6 +113,16 @@
     "kategori": "kaos",
     "gambar": "design7.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Brown Bear?"
   },
   {
@@ -61,6 +131,16 @@
     "kategori": "kaos",
     "gambar": "design8.png",
     "harga": 85000,
+    "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Xaverian Values?"
   },
   {
@@ -69,6 +149,16 @@
     "kategori": "kaos",
     "gambar": "designcustom.png",
     "harga": 85000,
+     "warna": [
+      {
+        "hex": "#000000",
+        "nama": "black"
+      }, 
+      {
+        "hex": "#ffffff",
+        "nama": "white"
+      }
+    ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon custom desain sendiri?"
   }
 ]

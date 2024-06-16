@@ -1,4 +1,10 @@
 import type { Config } from "tailwindcss"
+const colors = [
+  'hitam', 'putih', 'maroon', 'merahcabe', 'cokelat', 'kuning', 'cream', 'sagegreen',
+  'hijauarmy', 'navy', 'biruitb', 'birulaut', 'violet', 'dustypink', 'pinkfanta', 'abutua', 'khaki'
+];
+
+const safelist = colors.map(color => `bg-${color}`);
 
 const config = {
   darkMode: ["class"],
@@ -9,6 +15,7 @@ const config = {
     './src/**/*.{ts,tsx}',
 	],
   prefix: "",
+  safelist: safelist,
   theme: {
     container: {
       center: true,

@@ -140,7 +140,7 @@ const Shop = () => {
                           </h1>
                         )}
 
-                        <div className="space-x-2 flex items-center justify-between overflow-x-auto ">
+                        <div className="flex justify-between items-center space-x-2 overflow-x-auto ">
                           <p className="text-sm text-desc ">Warna</p>
                           <div className="flex space-x-2">
                             {hasil.warna?.map((_, idx) => (
@@ -157,7 +157,6 @@ const Shop = () => {
                             ))}
                           </div>
                         </div>
-                      
                        
                       
                       </div>

@@ -134,15 +134,6 @@ const Shop = () => {
                           {hasil.title}
                         </h4>
 
-                        {/* <div className="space-y-1">
-                          <p className="text-sm text-desc ">Warna</p>
-                          <div className="flex space-x-2">
-                            {hasil.warna?.map((_, idx) => (
-                              <button className={`bg-[${_}] w-[30px] h-[30px] rounded-lg border `} key={idx}></button>
-                            ))}
-                          </div>
-                        </div> */}
-
                         {hasil.harga !== undefined && (
                           <h1 className="text-lg font-black">
                             {replaceFormat(RupiahFormat.format(hasil.harga))}
@@ -156,9 +147,9 @@ const Shop = () => {
                               <>
                                 <TooltipProvider>
                                   <Tooltip key={idx}>
-                                    <TooltipTrigger className={`bg-[${_.hex}] w-[30px] h-[30px] rounded-lg border`}></TooltipTrigger>
+                                    <TooltipTrigger className={`bg-${_.hex} w-[30px] h-[30px] rounded-lg border`}></TooltipTrigger>
                                     <TooltipContent>
-                                      <p>{_.nama}</p>
+                                      <p className="capitalize">{_.nama}</p>
                                     </TooltipContent>
                                   </Tooltip>
                                 </TooltipProvider>

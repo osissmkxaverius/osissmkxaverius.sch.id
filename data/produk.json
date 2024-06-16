@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -7,12 +8,28 @@
     "harga": 85000,
     "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
-      }, 
+        "hex": "putih",
+        "nama": "putih"
+      },
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "kuning",
+        "nama": "kuning"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
+      },
+      {
+        "hex": "violet",
+        "nama": "violet"
+      },
+      {
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      },
+      {
+        "hex": "cream",
+        "nama": "cream"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Preserve Energy?"
@@ -25,12 +42,20 @@
     "harga": 85000,
     "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "abutua",
+        "nama": "abu tua"
+      },
+      {
+        "hex": "pinkfanta",
+        "nama": "pink fanta"
+      },
+      {
+        "hex": "navy",
+        "nama": "navy"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Blissful Oasis?"
@@ -43,12 +68,32 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "navy",
+        "nama": "navy"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
+      },
+      {
+        "hex": "maroon",
+        "nama": "maroon"
+      },
+      {
+        "hex": "hijauarmy",
+        "nama": "hijau army"
+      },
+      {
+        "hex": "abutua",
+        "nama": "abu tua"
+      },
+      {
+        "hex": "biruitb",
+        "nama": "biru itb"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Adventure Awaits?"
@@ -61,12 +106,32 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
-      }, 
+        "hex": "putih",
+        "nama": "putih"
+      },
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "cream",
+        "nama": "cream"
+      },
+      {
+        "hex": "kuning",
+        "nama": "kuning"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
+      },
+      {
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      },
+      {
+        "hex": "pinkfanta",
+        "nama": "pink fanta"
+      },
+      {
+        "hex": "violet",
+        "nama": "violet"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Infinite?"
@@ -79,12 +144,20 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "putih",
+        "nama": "putih"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      },
+      {
+        "hex": "violet",
+        "nama": "violet"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Flowystic?"
@@ -97,12 +170,28 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "birulaut",
+        "nama": "biru laut"
+      }, 
+      {
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      }, 
+      {
+        "hex": "violet",
+        "nama": "violet"
+      }, 
+      {
+        "hex": "sagegreen",
+        "nama": "sage green"
+      }, 
+      {
+        "hex": "cokelat",
+        "nama": "cokelat"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Love Ocean?"
@@ -115,12 +204,36 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "cokelat",
+        "nama": "brown"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
+      },
+      {
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      },
+      {
+        "hex": "violet",
+        "nama": "violet"
+      },
+      {
+        "hex": "pinkfanta",
+        "nama": "pink fanta"
+      },
+      {
+        "hex": "sagegreen",
+        "nama": "sage green"
+      },
+      {
+        "hex": "navy",
+        "nama": "navy"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Brown Bear?"
@@ -133,12 +246,32 @@
     "harga": 85000,
     "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "maroon",
+        "nama": "maroon"
+      },
+      {
+        "hex": "merahcabe",
+        "nama": "merah cabe"
+      },
+      {
+        "hex": "navy",
+        "nama": "navy"
+      },
+      {
+        "hex": "biruitb",
+        "nama": "biru itb"
+      },
+      {
+        "hex": "pinkfanta",
+        "nama": "pink fanta"
+      },
+      {
+        "hex": "sagegreen",
+        "nama": "sage green"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon Xaverian Values?"
@@ -151,12 +284,48 @@
     "harga": 85000,
      "warna": [
       {
-        "hex": "#000000",
-        "nama": "black"
+        "hex": "hitam",
+        "nama": "hitam"
       }, 
       {
-        "hex": "#ffffff",
-        "nama": "white"
+        "hex": "putih",
+        "nama": "putih"
+      },
+      {
+        "hex": "kuning",
+        "nama": "kuning"
+      },
+      {
+        "hex": "navy",
+        "nama": "navy"
+      },
+      {
+        "hex": "maroon",
+        "nama": "maroon"
+      },
+      {
+        "hex": "birulaut",
+        "nama": "biru laut"
+      },
+      {
+        "hex": "dustypink",
+        "nama": "dusty pink"
+      },
+      {
+        "hex": "abutua",
+        "nama": "abu tua"
+      },
+      {
+        "hex": "sagegreen",
+        "nama": "sage green"
+      },
+      {
+        "hex": "cokelat",
+        "nama": "brown"
+      },
+      {
+        "hex": "cream",
+        "nama": "cream"
       }
     ],
     "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order kaos sablon custom desain sendiri?"

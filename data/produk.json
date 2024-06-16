@@ -1,9 +1,25 @@
 [
   {
     "id": 1,
-    "title": "Test Produk",
+    "title": "Kaos Sablon Theme 1 ",
+    "kategori": "aesthetic",
+    "gambar": "design1.png",
+    "harga": 20000,
+    "link": "https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin order mengenai shop osis smk xaverius?"
+  }, 
+  {
+    "id": 2,
+    "title": "Kaos Sablon Theme 2 ",
+    "kategori": "aesthetic",
+    "gambar": "design2.png",
+    "harga": 20000,
+    "link": "https://shopee.co.id/"
+  },
+  {
+    "id": 3,
+    "title": "Kaos Sablon Theme 3",
     "kategori": "test",
-    "gambar": "testkaos.jpg",
+    "gambar": "design3.png",
     "harga": 20000,
     "link": "https://shopee.co.id/"
   }

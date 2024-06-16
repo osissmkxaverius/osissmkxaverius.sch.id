@@ -12,27 +12,27 @@ const Produk = () => {
           <div className="flex pl-4  lg:pl-10  items-center space-x-5  w-full md:w-3/4 lg:w-1/2  ">
             <div className="space-y-5 ">
               <Image
-                src="/assets/produk/testkaos.jpg"
+                src="/assets/produk/design8.png"
                 width={200}
                 height={200}
                 alt="Logo OSIS/OSISKA"
-                className="rounded-2xl relative left-5 w-36 lg:w-44 "
+                className="rounded-2xl relative left-5 w-36 lg:w-52 "
               />
               <Image
-                src="/assets/produk/testkaos.jpg"
+                src="/assets/produk/design3.png"
                 width={200}
                 height={200}
                 alt="Logo OSIS/OSISKA"
-                className="rounded-2xl w-36 lg:w-44 "
+                className="rounded-2xl w-36 lg:w-52 "
               />
             </div>
             <div>
               <Image
-                src="/assets/produk/testkaos.jpg"
+                src="/assets/produk/design5.png"
                 width={200}
                 height={200}
                 alt="Logo OSIS/OSISKA"
-                className="rounded-2xl relative left-5 w-36 lg:w-44  "     
+                className="rounded-2xl relative left-5 w-36 lg:w-52  "     
               />
             </div>
           </div>

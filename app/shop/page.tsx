@@ -52,11 +52,11 @@ const Shop = () => {
   useEffect(() => {
     if (typeof window !== "undefined") {
       let isMobile = window.matchMedia("(max-width: 600px)").matches;
-      const threshold = isMobile ? 11 : 20;
+      const threshold = isMobile ? 25 : 25;
 
       const scrollChat = () => {
         if (isMobile && window.innerWidth <= 400) {
-          if (window.scrollY > 20) {
+          if (window.scrollY > 25) {
             setChat(true);
           } else {
             setChat(false);

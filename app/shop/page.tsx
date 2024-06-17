@@ -117,18 +117,17 @@ const Shop = () => {
                     key={idx}
                   >
                     <Image
-                      className="rounded-xl w-full h-[240px] object-center"
+                      className="rounded-xl w-full h-[240px] object-cover"
                       src={`/assets/produk/${hasil.gambar}`}
                       width={400}
                       height={400}
                       alt="Product"
                     />
-                    <div className="space-y-2">
-                   
+                    <div className="space-y-2 ">
                       <p className="bg-pastel text-primary w-fit uppercase py-[7.5px] px-[14px] text-sm font-semibold rounded-full mt-3">
                         {hasil.kategori}
                       </p>
-                     
+
                       <div className="space-y-1 md:pb-[3.4rem]">
                         <h4 className="font-semibold line-clamp-2 text-ellipsis">
                           {hasil.title}
@@ -140,7 +139,7 @@ const Shop = () => {
                           </h1>
                         )}
 
-                        <div className="flex justify-between items-center space-x-2 overflow-x-auto ">
+                        <div className="flex justify-between items-center space-x-2 overflow-x-auto pb-2">
                           <p className="text-sm text-desc ">Warna</p>
                           <div className="flex space-x-2">
                             {hasil.warna?.map((_, idx) => (
@@ -157,8 +156,8 @@ const Shop = () => {
                             ))}
                           </div>
                         </div>
-                       
-                      
+
+
                       </div>
                       <div className="md:absolute md:bottom-5 md:left-5 md:right-5">
                         <Button
@@ -189,8 +188,8 @@ const Shop = () => {
         <Link
           href="https://wa.me/62085369831090?text=Selamat pagi/siang/malam, saya ingin mendapatkan informasi lebih lanjut mengenai shop osis smk xaverius?"
           className={`${chat
-              ? `bg-white text-primary border dark:border-none dark:bg-primary dark:text-primary-foreground`
-              : `bg-primary text-primary-foreground `
+            ? `bg-white text-primary border dark:border-none dark:bg-primary dark:text-primary-foreground`
+            : `bg-primary text-primary-foreground `
             } rounded-2xl p-3 md:px-5 md:py-3.5 fixed right-5 bottom-5 md:right-10 md:bottom-10 flex items-center font-medium space-x-2`}
           target="_blank"
         >

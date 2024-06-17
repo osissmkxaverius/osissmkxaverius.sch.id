@@ -36,7 +36,7 @@ const Produk = () => {
               />
             </div>
           </div>
-          <div className="flex flex-col space-y-5 md:w-3/4 lg:w-1/2">
+        <div className="flex flex-col space-y-5 md:w-3/4 lg:w-1/2">
             <div className="space-y-3">
               <p className="bg-white dark:bg-card text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full">produk kami</p>
               <h1 className="text-4xl  lg:text-[40px] leading-[3.1rem] font-black">Produk Terbaru dari OSIS/OSISKA SMK Xaverius</h1>

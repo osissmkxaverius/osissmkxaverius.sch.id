@@ -36,7 +36,7 @@ const config = {
         foreground: "hsl(var(--foreground))",
         hitam: "#000000",
         putih: "#ffffff",
-        maroon: "#BE2F35",
+        maroon: "#5A0E11",
         merahcabe: "#BE2F35",
         cokelat: "#894926",
         kuning: "#FFD72B",

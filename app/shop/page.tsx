@@ -14,6 +14,7 @@ import {
   TooltipProvider,
   TooltipTrigger,
 } from "@/components/ui/tooltip"
+
 interface ProdukData {
   id?: number;
   title?: string;
@@ -34,11 +35,8 @@ const Shop = () => {
   const filterData = (searchValue: string): void => {
     setInput(searchValue);
     const filteredData: ProdukData[] = produk_data.filter((produk) => {
-      const titleMatch =
-        typeof produk.title === "string" &&
-        produk.title.toLowerCase().includes(searchValue.toLowerCase());
-      const kategoriMatch =
-        typeof produk.kategori === "string" &&
+      const titleMatch = typeof produk.title === "string" && produk.title.toLowerCase().includes(searchValue.toLowerCase());
+      const kategoriMatch = typeof produk.kategori === "string" &&
         produk.kategori.toLowerCase().includes(searchValue.toLowerCase());
 
       return titleMatch || kategoriMatch;

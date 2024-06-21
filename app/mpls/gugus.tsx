@@ -1,8 +1,5 @@
 import Container from "@/components/container";
-import { Button } from "@/components/ui/button";
-import { ArrowRight } from "lucide-react";
 import Image from "next/image";
-import Link from "next/link";
 
 const Gugus = () => {
   const data_gugus = [
@@ -38,15 +35,15 @@ const Gugus = () => {
 
   return (
     <>
+    <section className="pt-12 pb-16 md:pt-16 md:pb-20 lg:pb-24">
       <Container>
-        <section className="pt-12 pb-16 md:pt-16 md:pb-20 lg:pb-24">
           <div className="flex flex-col space-y-5">
             <div className="flex flex-col space-y-2">
               <h1 className="text-4xl lg:text-[40px] font-black">Gugus MPLS</h1>
               <p className="text-desc text-base md:text-sm lg:text-base font-medium">Beberapa gugus yang terdapat dalam kegiatan MPLS</p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
               {data_gugus.map((gugus, idx) => {
                 // Construct class names outside the JSX
                 const iconContainerClass = `rounded-full dark:bg-${gugus.bg_dark} bg-${gugus.bg_light} w-[58px] h-[58px] p-3.5`;
@@ -72,8 +69,8 @@ const Gugus = () => {
               })}
             </div>
           </div>
-        </section>
-      </Container>
+          </Container>
+      </section>
     </>
   );
 }

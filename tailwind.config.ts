@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss"
 const colors = [
   'hitam', 'putih', 'maroon', 'merahcabe', 'cokelat', 'kuning', 'cream', 'sagegreen',
-  'hijauarmy', 'navy', 'biruitb', 'birulaut', 'violet', 'dustypink', 'pinkfanta', 'abutua', 'khaki'
+  'hijauarmy', 'navy', 'biruitb', 'birulaut', 'violet', 'dustypink', 'pinkfanta', 'abutua', 'khaki', 'pastelkuning', 'pastelmerah', 'lightdark2'
 ];
 
 const safelist = colors.map(color => `bg-${color}`);
@@ -51,6 +51,9 @@ const config = {
         pinkfanta: "#DD477F",
         abutua: "#242428",
         khaki: "#C6B4A4",
+        pastelkuning: "#FFFFED",
+        pastelmerah: "#FFEDED",
+        lightdark2: "#1B1B34",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",

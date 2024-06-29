@@ -1,7 +1,7 @@
 import type { Config } from "tailwindcss"
 const colors = [
-  'hitam', 'putih', 'maroon', 'merahcabe', 'cokelat', 'kuning', 'cream', 'sagegreen',
-  'hijauarmy', 'navy', 'biruitb', 'birulaut', 'violet', 'dustypink', 'pinkfanta', 'abutua', 'khaki', 'pastelkuning', 'pastelmerah', 'lightdark2'
+  'hitam', 'putih', 'maroon', 'camel', 'mustard', 'platinum', 'khaki', 'olive',
+  'emerald', 'navy', 'steelblue', 'stoneblue', 'dustypink',  'pastelkuning', 'pastelmerah', 'lightdark2'
 ];
 
 const safelist = colors.map(color => `bg-${color}`);
@@ -36,21 +36,17 @@ const config = {
         foreground: "hsl(var(--foreground))",
         hitam: "#000000",
         putih: "#ffffff",
-        maroon: "#5A0E11",
-        merahcabe: "#BE2F35",
-        cokelat: "#894926",
-        kuning: "#FFD72B",
-        cream: "#E3D4B4",
-        sagegreen: "#717C56",
-        hijauarmy: "#323D30",
+        maroon: "#B22032",
+        camel: "#DFA984",
+        mustard: "#FFD84D",
+        platinum: "#DFD9CD",
+        khaki: "#F6E4CE",
+        olive: "#717C56",
+        emerald: "#323D30",
         navy: "#091C2D",
-        biruitb: "#0B2D37",
-        birulaut: "#8DD1F5",
-        violet: "#B9A1C5",
-        dustypink: "#E3AADD",
-        pinkfanta: "#DD477F",
-        abutua: "#242428",
-        khaki: "#C6B4A4",
+        steelblue: "#2068A1",
+        stoneblue: "#93CAF0",        
+        dustypink: "#F5A3B0",
         pastelkuning: "#FFFFED",
         pastelmerah: "#FFEDED",
         lightdark2: "#1B1B34",

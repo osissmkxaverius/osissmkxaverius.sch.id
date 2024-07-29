@@ -6,24 +6,31 @@ const Days = () => {
   const data_mpls_hari = [
     {
       judul: "MPLS Day 1",
-      img: "/assets/osiska.png",
+      img: "/assets/mpls/1h1.jpg",
       category: "mpls",
       tanggal: "2024, 7, 10", // tahun, bulan, tanggal
-      link_dokumentasi: "",
+      link_dokumentasi: "https://photos.app.goo.gl/HSAPXGj3VHHfiFmp6",
     },
     {
       judul: "MPLS Day 2",
-      img: "/assets/osiska.png",
+      img: "/assets/mpls/1h2.jpg",
       category: "mpls",
       tanggal: "2024, 7, 11", // tahun, bulan, tanggal
-      link_dokumentasi: "",
+      link_dokumentasi: "https://photos.app.goo.gl/PeuUZc6UpFanQyv76",
     },
     {
       judul: "MPLS Day 3",
-      img: "/assets/osiska.png",
+      img: "/assets/mpls/4h3.jpg",
       category: "mpls",
       tanggal: "2024, 7, 12", // tahun, bulan, tanggal
-      link_dokumentasi: "",
+      link_dokumentasi: "https://photos.app.goo.gl/87frWjf4hYcutYcs5",
+    },
+    {
+      judul: "MPLS Pentas Seni",
+      img: "/assets/mpls/1h4.jpg",
+      category: "mpls",
+      tanggal: "2024, 7, 15", // tahun, bulan, tanggal
+      link_dokumentasi: "https://photos.app.goo.gl/Bb4C6ZyiBrnpF6S77",
     },
   ];
 

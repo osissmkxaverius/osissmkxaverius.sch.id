@@ -17,20 +17,56 @@ import { ArrowRight } from "lucide-react";
 function Day1() {
   const mplsday3_images = [
     {
-      name: "foto bersama osis",
+      name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/osis.png"
+      src: "/assets/mpls/1h3.jpg"
     },
     {
-      name: "logo osis",
-      width: 100,
-      height: 100,
-      src: "/assets/logo.png"
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/2h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/3h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/4h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/6h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/7h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/8h3.jpg"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/9h3.jpg"
     },
   ]
 
-  const listkegiatan_day3 = ["Pemeriksaan kelengkapan > menuju ke gedung Bina Remaja", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024"]
+  const listkegiatan_day3 = ["Menjadi Pribadi Berkarakter Ke - Xaveriusan", "Ice Breaking", "Dinamika Kelompok", "Persiapan Pensi"]
   return (
     <>
       <section id="day3" className="pt-12 pb-16 md:pt-16 md:pb-20 lg:pt-20 lg:pb-24 ">
@@ -77,7 +113,7 @@ function Day1() {
                 </ul>
               </div>
               <Button variant={"default"} className="w-fit" asChild size={"lg"} >
-                <Link href="#"  className="flex space-x-1">
+                <Link href="https://photos.app.goo.gl/87frWjf4hYcutYcs5" target="_blank"  className="flex space-x-1">
                   <span>Dokumentasi </span>
                   <ArrowRight className="w-5 h-5 " />
                 </Link>

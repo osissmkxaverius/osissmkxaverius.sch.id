@@ -14,7 +14,7 @@ const Home = () => {
               <div className="space-y-3">
                 <p className="bg-card text-primary w-fit uppercase py-[11px] px-[20px] text-sm font-semibold rounded-full">mpls 2024</p>
                 <h1 className="text-4xl  lg:text-[40px] leading-[3.1rem] font-black">Masa Pengenalan Lingkungan Sekolah (MPLS) 2024</h1>
-                <p className="text-desc text-base md:text-sm lg:text-base font-medium">Pada tanggal 10 Juli - 14 Juli 2024, telah dilaksanakan MPLS peserta didik baru SMK Xaverius Palembang tahun ajaran 2024-2025 </p>
+                <p className="text-desc text-base md:text-sm lg:text-base font-medium">Pada tanggal 10 - 12 Juli 2024 & 15 Juli 2024, telah dilaksanakan MPLS peserta didik baru SMK Xaverius Palembang tahun ajaran 2024-2025 </p>
               </div>
               <Button variant={"default"} className="w-fit" asChild size={"lg"} >
                 <Link href="#"  className="flex space-x-1">

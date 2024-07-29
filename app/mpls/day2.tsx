@@ -17,20 +17,39 @@ import { ArrowRight } from "lucide-react";
 function KegiatanMPLS() {
   const mplsday2_images = [
     {
-      name: "foto bersama osis",
+      name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/osis.png"
+      src: "/assets/mpls/1h2.jpg"
     },
     {
-      name: "logo osis",
-      width: 100,
-      height: 100,
-      src: "/assets/logo.png"
+      name: "day2",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/2h2.jpg"
     },
+    {
+      name: "day2",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/5h2.jpg"
+    },
+    {
+      name: "day2",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/3h2.jpg"
+    },
+    {
+      name: "day2",
+      width: 516,
+      height: 341,
+      src: "/assets/mpls/4h2.jpg"
+    },
+    
   ]
 
-  const listkegiatan_day2 = ["Pemeriksaan kelengkapan > menuju ke gedung Bina Remaja", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024", "Pengenalan Jingle MPLS 2024"]
+  const listkegiatan_day2 = ["Wawasan Kebangsaan dan LTBB", "Ice Breaking", "Tata Tertib Siswa dan Administrasi SMK Xaverius", "Pengenalan Anggota MPK-OSISKA", "Hidup Sehat & Bahaya Narkotika"]
   return (
     <>
       <section id="day2" className="pt-12 pb-16 md:pt-16 md:pb-20 lg:pt-20 lg:pb-24 bg-secondary dark:bg-background">
@@ -51,7 +70,7 @@ function KegiatanMPLS() {
                 </ul>
               </div>
               <Button variant={"default"} className="w-fit" asChild size={"lg"} >
-                <Link href="#"  className="flex space-x-1">
+                <Link href="https://photos.app.goo.gl/HSAPXGj3VHHfiFmp6" target="_blank"  className="flex space-x-1">
                   <span>Dokumentasi </span>
                   <ArrowRight className="w-5 h-5 " />
                 </Link>

@@ -23,7 +23,7 @@ const Jadwal = () => {
     },
     {
       bulan: "Juli",
-      tanggal: "13",
+      tanggal: "15",
       title: "Pentas Seni",
       periode: "2024/2025"
     },
@@ -63,7 +63,7 @@ const Jadwal = () => {
 
               <div className="w-full lg:w-1/3 border border-1 border-decs p-5 rounded-xl bg-white dark:bg-secondary  " id="box2">
                 <div style={{ display: 'flex', justifyContent: 'center' }}>
-                  <InstagramEmbed url="https://www.instagram.com/p/C7qz-biS7gI/" width={345} />
+                  <InstagramEmbed url="https://www.instagram.com/p/C9hvLFXvypa/" width={345} />
                 </div>
               </div>
 

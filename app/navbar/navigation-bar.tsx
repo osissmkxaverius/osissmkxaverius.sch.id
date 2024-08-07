@@ -80,6 +80,10 @@ const NavigationBar = () => {
       title: "Seksi Bidang",
       link: "/sekbid"
     },
+    {
+      title: "MPLS",
+      link: "/mpls"
+    },
   ]
 
   return (

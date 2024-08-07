@@ -141,6 +141,14 @@ const Footer = () => {
                         seksi bidang
                       </Link>
                     </li>
+                    <li >
+                      <Link
+                        href="/mpls"
+                        className="hover:underline hover:decoration-primary underline-offset-4 uppercase"
+                      >
+                        MPLS
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </div>

@@ -1,14 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Agnes Ferdinanda W., S. Pd.",
-    "profile": "/assets/guru/buagnes.jpg",
+    "name": "Yestinus Suranto, S. Kom.",
+    "profile": "/assets/guru/pakranto.png",
     "role": "Koordinator OSIS/OSISKA",
-    "path": "Agnes Ferdinanda",
-    "lahir": "Palembang, 2 Agustus 1991",
-    "description": ["Mari kita sambut Bu Agnes Ferdinanda Wulansari, S.Pd, yang biasa disapa Bu Agnes. Beliau lahir di kota Palembang pada tanggal 2 Agustus 1991. Bu Agnes menempuh pendidikan S1 jurusan Pendidikan Kesenian dan berhasil meraih gelar sarjana pada tahun 2014.", 
-    "Sejak tahun 2014, Bu Agnes telah mengabdikan diri sebagai pengajar mata pelajaran seni budaya di SMK Xaverius Palembang. Saat ini, Bu Agnes dipercaya sebagai koordinator OSIS/OSISKA SMK Xaverius Palembang periode 2024. Dedikasi dan pengabdian Bu Agnes selama 10 tahun di dunia pendidikan patut diapresiasi."] 
+    "path": "Yestinus Suranto",
+    "lahir": "Karang Nongko, 14 Agustus 1991",
+    "description":  ["Mari kita sambut Pak Yestinus Suranto, S. Kom, yang biasa disapa Pak Ranto. Beliau lahir di sebuah desa Karang Nongko, Jawa Tengah pada tanggal 14 Agustus 1991. Pak Ranto memulai perjalanannya menuju puncak pendidikan dengan mengejar gelar sarjana di jurusan Teknik Informatika, yang berhasil diraihnya pada tahun 2015.", 
+    "Pak Ranto telah aktif mengajar sejak tahun 2010, dimulai dari mengajar TIK di SD Xaverius 5. Pada tahun 2016, Pak Ranto juga pernah mengajar informatika di TK SD Xaverius 8, TK SD Xaverius 7, dan SMP Xaverius 5. Pada tahun 2022, Pak Ranto melangkah lebih jauh dengan mengajar Produktif TKJ di SMK Xaverius. Beliau menunjukkan dedikasi dan passionnya dalam mengajar, terbukti dengan kiprahnya yang terus berkembang."]  
   },
+  
   {
     "id": 2,
     "name": "Lukas Purwahadi K., S. Pd.",
@@ -19,17 +20,17 @@
     "description": ["Mari kita sambut Pak Lukas Purwahadi Kurniawan, S. Pd, yang biasa disapa Pak Didik. Beliau lahir di kota Palembang pada tanggal 17 Mei 1986. Pak didik memulai perjalanannya menuju puncak pendidikan dengan mengejar gelar sarjana di jurusan Pendidikan Akuntasi, yang berhasil diraihnya pada tahun 2010.", 
     "Sejak langkah pertamanya di dunia pendidikan, Pak Didik telah menjadi penjelajah setia di ranah pembelajaran produktif AKL di SMK Xaverius Palembang. Dengan cinta dan semangatnya yang tak kenal lelah, Pak Didik telah menjadi agen perubahan di kelasnya, membentuk generasi pelajar dengan pemahaman mendalam tentang akuntansi dan keahlian produktif."]  
   },
-
   {
     "id": 3,
-    "name": "Yestinus Suranto, S. Kom.",
-    "profile": "/assets/guru/pakranto.png",
+    "name": "Agnes Ferdinanda W., S. Pd.",
+    "profile": "/assets/guru/buagnes.jpg",
     "role": "Pembimbing OSIS/OSISKA",
-    "path": "Yestinus Suranto",
-    "lahir": "Karang Nongko, 14 Agustus 1991",
-    "description":  ["Mari kita sambut Pak Yestinus Suranto, S. Kom, yang biasa disapa Pak Ranto. Beliau lahir di sebuah desa Karang Nongko, Jawa Tengah pada tanggal 14 Agustus 1991. Pak Ranto memulai perjalanannya menuju puncak pendidikan dengan mengejar gelar sarjana di jurusan Teknik Informatika, yang berhasil diraihnya pada tahun 2015.", 
-    "Pak Ranto telah aktif mengajar sejak tahun 2010, dimulai dari mengajar TIK di SD Xaverius 5. Pada tahun 2016, Pak Ranto juga pernah mengajar informatika di TK SD Xaverius 8, TK SD Xaverius 7, dan SMP Xaverius 5. Pada tahun 2022, Pak Ranto melangkah lebih jauh dengan mengajar Produktif TKJ di SMK Xaverius. Beliau menunjukkan dedikasi dan passionnya dalam mengajar, terbukti dengan kiprahnya yang terus berkembang."]  
+    "path": "Agnes Ferdinanda",
+    "lahir": "Palembang, 2 Agustus 1991",
+    "description": ["Mari kita sambut Bu Agnes Ferdinanda Wulansari, S.Pd, yang biasa disapa Bu Agnes. Beliau lahir di kota Palembang pada tanggal 2 Agustus 1991. Bu Agnes menempuh pendidikan S1 jurusan Pendidikan Kesenian dan berhasil meraih gelar sarjana pada tahun 2014.", 
+    "Sejak tahun 2014, Bu Agnes telah mengabdikan diri sebagai pengajar mata pelajaran seni budaya di SMK Xaverius Palembang. Saat ini, Bu Agnes dipercaya sebagai koordinator OSIS/OSISKA SMK Xaverius Palembang periode 2024. Dedikasi dan pengabdian Bu Agnes selama 10 tahun di dunia pendidikan patut diapresiasi."] 
   },
+  
   {
     "id": 4,
     "name": "Sugiarto, S. T.",

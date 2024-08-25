@@ -24,9 +24,9 @@ const Home = () => {
               </Button>
             </div>
 
-            <div className="w-full lg:w-2/5 space-y-3">
+            <div className="w-full lg:w-2/5 space-y-3 ">
               <Image
-                src={'/assets/osis.png'}
+                src={'/assets/mpls/full.png'}
                 width={700}
                 height={700}
                 alt="mpk"

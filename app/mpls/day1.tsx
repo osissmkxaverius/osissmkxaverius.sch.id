@@ -20,31 +20,31 @@ function Day1() {
       name: "day1",
       width: 516,
       height: 341,
-      src: "/assets/mpls/1h1.jpg"
+      src: "/assets/mpls/1h1.png"
     },
     {
       name: "day1",
       width: 516,
       height: 341,
-      src: "/assets/mpls/3h1.jpg"
+      src: "/assets/mpls/3h1.png"
     },
     {
       name: "day1",
       width: 516,
       height: 341,
-      src: "/assets/mpls/4h1.jpg"
+      src: "/assets/mpls/4h1.png"
     },
     {
       name: "day1",
       width: 516,
       height: 341,
-      src: "/assets/mpls/5h1.jpg"
+      src: "/assets/mpls/5h1.png"
     },
     {
       name: "day1",
       width: 516,
       height: 341,
-      src: "/assets/mpls/6h1.jpg"
+      src: "/assets/mpls/6h1.png"
     },
     
   ]

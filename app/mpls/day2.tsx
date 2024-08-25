@@ -20,31 +20,31 @@ function KegiatanMPLS() {
       name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/mpls/1h2.jpg"
+      src: "/assets/mpls/1h2.png"
     },
     {
       name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/mpls/2h2.jpg"
+      src: "/assets/mpls/2h2.png"
     },
     {
       name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/mpls/5h2.jpg"
+      src: "/assets/mpls/5h2.png"
     },
     {
       name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/mpls/3h2.jpg"
+      src: "/assets/mpls/3h2.png"
     },
     {
       name: "day2",
       width: 516,
       height: 341,
-      src: "/assets/mpls/4h2.jpg"
+      src: "/assets/mpls/4h2.png"
     },
     
   ]

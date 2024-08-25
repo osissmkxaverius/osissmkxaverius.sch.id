@@ -20,49 +20,43 @@ function Day1() {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/1h3.jpg"
+      src: "/assets/mpls/1h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/2h3.jpg"
+      src: "/assets/mpls/2h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/3h3.jpg"
+      src: "/assets/mpls/3h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/4h3.jpg"
+      src: "/assets/mpls/4h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/6h3.jpg"
+      src: "/assets/mpls/6h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/7h3.jpg"
+      src: "/assets/mpls/7h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/8h3.jpg"
-    },
-    {
-      name: "day3",
-      width: 516,
-      height: 341,
-      src: "/assets/mpls/9h3.jpg"
+      src: "/assets/mpls/8h3.png"
     },
   ]
 

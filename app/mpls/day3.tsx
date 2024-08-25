@@ -20,13 +20,13 @@ function Day1() {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/1h3.png"
+      src: "/assets/mpls/2h3.png"
     },
     {
       name: "day3",
       width: 516,
       height: 341,
-      src: "/assets/mpls/2h3.png"
+      src: "/assets/mpls/1h3.png"
     },
     {
       name: "day3",
@@ -44,6 +44,12 @@ function Day1() {
       name: "day3",
       width: 516,
       height: 341,
+      src: "/assets/mpls/5h3.png"
+    },
+    {
+      name: "day3",
+      width: 516,
+      height: 341,
       src: "/assets/mpls/6h3.png"
     },
     {
@@ -51,12 +57,6 @@ function Day1() {
       width: 516,
       height: 341,
       src: "/assets/mpls/7h3.png"
-    },
-    {
-      name: "day3",
-      width: 516,
-      height: 341,
-      src: "/assets/mpls/8h3.png"
     },
   ]
 

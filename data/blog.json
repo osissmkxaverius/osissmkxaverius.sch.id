@@ -136,5 +136,23 @@
     "estimated": "3 min",
     "cover": "/assets/blog/17agustus.png",
     "resolution": 2000
+  },
+  {
+    "id": 8,
+    "title": "XAVOS FAIR II Bersama Meraih Bintang",
+    "category": "event",
+    "subCategory": ["sekolah","permainan", "lomba", "bazar"],
+    "description": ["SMK Xaverius mengadakan event Xavosfair II dengan jarak waktu selama 5 tahun dari yang pertama, dan akan diadakan kembali pada 5 tahun berikutnya. Tepatnya pada tanggal 19-21 September 2024. Selama 3 hari, SMK Xaverius menyediakan berbagai stan yang dapat dinikmati oleh pengunjung. Xavosfair ini terbuka untuk umum, sehingga dapat dikunjungi oleh siapapun dan dari kalangan manapun.", 
+    "Dikarenakan Xavosfair II memiliki banyak stan dan berbagai macam keseruannya, tentu saja diperlukannya keterlibatan dari berbagai pihak, baik itu murid ataupun guru dan staf untuk turut andil supaya Xavosfair yang kedua ini berjalan dengan lancar. Adapun stan-stan yang tersedia yaitu; bazar UMKM; Pentas Seni; ajang perlombaan tingkat TK, SD, dan SMP; beserta Pameran Pendidikan yang memperkenalkan setiap jurusan yang tersedia di SMK Xaverius, yang juga diikuti oleh SMA Xaverius 1, SMA Xaverius 2, SMA Xaverius 3, dan SMA Xaverius 4 sebagai wadah untuk memperkenalkan sekolah, memamerkan karya siswa, juga sebagai wajah bagi sekolah untuk memperlihatkan keunggulannya. ", 
+    "Nah, yang paling ditunggu-tunggu dari Xavosfair ini adalah wahana permainan rumah hantu. Dengan suasana mencekam dan mendorong adrenalin, wahana permainan ini sukses mendatangkan ramai pengunjung. Tak hanya itu, beragam ajang perlombaan yang diadakan SMK Xaverius meraup banyak pengunjung, baik menjadi peserta lomba maupun penonton dari sekolah negeri, maupun swasta.", 
+    "Selain itu, adanya pertunjukan pentas seni dan perlombaan pada event Xavosfair membuka peluang bagi siswa/i seluruh sekolah yang berkunjung untuk menuangkan bakat mereka yang juga membantu memeriahkan Xavosfair yang kedua ini. SMK Xaverius juga mempersiapkan penampilan pentas seni yang terbaik mulai dari menari tradisional, modern dance dari group dance Fearless, penampilan dari band kebanggaan SMK Xaverius, The Choice, hingga penampilan spesial dari Pasukan Kejuruan SMK Xaverius (PAKEXA).", 
+    "Dengan dilaksanakannya Xavosfair II, harapan kedepannya SMK Xaverius dapat semakin maju dan unggul dalam pelayanan pendidikan. Serta semakin dikenal luas dalam masyarakat."
+  ],
+    "authorName": "Stella",
+    "authorUrl": "https://www.instagram.com/stella_xvhs/",
+    "createdAt": "2024, 10, 1",
+    "estimated": "1 min",
+    "cover": "/assets/blog/xavos.png",
+    "resolution": 2000
   }
 ]
